@@ -1,0 +1,164 @@
+{
+  "date": "2013-02-22 00:00:00",
+  "type": "regular",
+  "spotify_uri": null,
+  "title": "Group Therapy 016 with Above & Beyond and Jeremy Olander",
+  "sets": [
+    {
+      "tracklist": [
+        {
+          "label": "(Anjunabeats Volume 10)",
+          "type": "regular",
+          "artist": "Soundprank",
+          "trackname": "\"Animus\""
+        },
+        {
+          "label": "(Vandit)",
+          "type": "regular",
+          "artist": "Paul van Dyk feat. Sue McLaren & Arty",
+          "trackname": "\"The Sun After Heartbreak\" [Pedro Del Mar & Double V Remix]"
+        },
+        {
+          "label": "(Lange)",
+          "type": "regular",
+          "artist": "Lange & Audrey Gallagher",
+          "trackname": "\"Our Way Home\" [Wellenrausch Remix]"
+        },
+        {
+          "label": "(Anjunabeats Volume 10)",
+          "type": "record_of_the_week",
+          "artist": "Norin & Rad",
+          "trackname": "\"Aldo\""
+        },
+        {
+          "label": "(Anjunabeats Volume 10)",
+          "type": "regular",
+          "artist": "Nitrous Oxide & 7 Skies",
+          "trackname": "\"Right On\""
+        },
+        {
+          "label": "(Jee)",
+          "type": "regular",
+          "artist": "Max Freegrant & Jerome Isma-Ae",
+          "trackname": "\"Thrill Me\""
+        },
+        {
+          "label": "(Anjunabeats)",
+          "type": "regular",
+          "artist": "Above & Beyond",
+          "trackname": "\"Black Room Boy\" [Original Mix]"
+        },
+        {
+          "label": "(A&R)",
+          "type": "regular",
+          "artist": "Ana Criado & Adrian & Raz",
+          "trackname": "\"Dancing Sea\" [The Madison Dub]"
+        },
+        {
+          "label": "(Anjunabeats Volume 10)",
+          "type": "regular",
+          "artist": "Mike Shiver",
+          "trackname": "\"Ohh\""
+        },
+        {
+          "label": "(Ride)",
+          "type": "regular",
+          "artist": "Myon & Shane 54 feat. Aruna",
+          "trackname": "\"Lights\""
+        },
+        {
+          "label": "(Monster)",
+          "type": "regular",
+          "artist": "Timur Shafiev",
+          "trackname": "\"Glory\" [Edu Remix]"
+        },
+        {
+          "label": "(CHM)",
+          "type": "regular",
+          "artist": "Stafford Brothers feat. Lil Wayne & Christina Milian",
+          "trackname": "\"Hello\" [Myon & Shane 54 Monster Dub]"
+        },
+        {
+          "label": "(Perceptive Pure)",
+          "type": "push_the_button",
+          "artist": "JPS feat. Mirva",
+          "trackname": "\"Dream Into Reality\" [Mike Shiver Dub Mix]"
+        },
+        {
+          "label": "(Planet Love)",
+          "type": "regular",
+          "artist": "York & JPL",
+          "trackname": "\"Nightmare\" [York Club Mix]"
+        },
+        {
+          "label": "(Armind)",
+          "type": "regular",
+          "artist": "BT",
+          "trackname": "\"Skylarking\""
+        },
+        {
+          "label": "(Baroque)",
+          "type": "regular",
+          "artist": "Shiloh & Danny Bonnici",
+          "trackname": "\"Easy Rider\""
+        },
+        {
+          "label": "(microCastle)",
+          "type": "regular",
+          "artist": "Kassey Voorn & Deepfunk",
+          "trackname": "\"Long Time Coming\""
+        },
+        {
+          "label": "(1Trax)",
+          "type": "flashback",
+          "artist": "Alcatraz",
+          "trackname": "\"Give Me Luv\""
+        }
+      ],
+      "artist": {
+        "name": "Above & Beyond"
+      }
+    },
+    {
+      "tracklist": [
+        {
+          "label": "(CDR)",
+          "type": "regular",
+          "artist": "Jeremy Olander",
+          "trackname": "\"Farben\""
+        },
+        {
+          "label": "(CDR)",
+          "type": "regular",
+          "artist": "Jeremy Olander",
+          "trackname": "\"Lauderdale\""
+        },
+        {
+          "label": "(Bits & Pieces)",
+          "type": "regular",
+          "artist": "16 Bit Lolitas",
+          "trackname": "\"Chant a Tune\" [Jeremy Olander Remix]"
+        },
+        {
+          "label": "(CDR)",
+          "type": "regular",
+          "artist": "Jeremy Olander",
+          "trackname": "\"Roopkund\""
+        },
+        {
+          "label": "(Pryda Friends)",
+          "type": "regular",
+          "artist": "Jeremy Olander",
+          "trackname": "\"Let Me Feel\""
+        }
+      ],
+      "type": "guestmix",
+      "artist": {
+        "image": "http://cms.api.aboveandbeyond.nu/sites/default/files/jeremyolander_0.png",
+        "name": "Jeremy Olander"
+      }
+    }
+  ],
+  "playLink": "https://soundcloud.com/aboveandbeyond/abgt016",
+  "youtube_link": "http://youtube.com/watch?v=Hp3aiM4w35c"
+}

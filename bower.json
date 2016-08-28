@@ -1,0 +1,15 @@
+{
+  "name": "abgt-track-search",
+  "authors": [
+    "Tom Meagher <thom.meagher@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "normalize-css": "^4.1.1",
+    "react": "^15.3.1"
+  }
+}

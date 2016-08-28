@@ -1,0 +1,170 @@
+{
+  "date": "2012-11-16 00:00:00",
+  "type": "regular",
+  "spotify_uri": null,
+  "title": "Group Therapy 002 with Above & Beyond and Armin Van Buuren",
+  "sets": [
+    {
+      "tracklist": [
+        {
+          "label": "(Ultra)",
+          "type": "regular",
+          "artist": "Kaskade",
+          "trackname": "\"Room For Happiness\" [Above & Beyond Remix]"
+        },
+        {
+          "label": "(Tool)",
+          "type": "regular",
+          "artist": "Dan Stone",
+          "trackname": "\"Drive\" [Stoneface & Terminal Remix]"
+        },
+        {
+          "label": "(Enhanced)",
+          "type": "regular",
+          "artist": "Ost & Meyer",
+          "trackname": "\"Take Off\""
+        },
+        {
+          "label": "(MoS/Anjunabeats)",
+          "type": "record_of_the_week",
+          "artist": "Mat Zo & Porter Robinson",
+          "trackname": "\"Easy\""
+        },
+        {
+          "label": "(Enhanced)",
+          "type": "regular",
+          "artist": "Temple One",
+          "trackname": "\"Aquamarine\""
+        },
+        {
+          "label": "(High Contrast)",
+          "type": "regular",
+          "artist": "Rank 1",
+          "trackname": "\"7 Instead Of 8\""
+        },
+        {
+          "label": "(Solaris)",
+          "type": "regular",
+          "artist": "Orkidea",
+          "trackname": "\"Liberation\" [Something Good Remix]"
+        },
+        {
+          "label": "(Black Hole)",
+          "type": "regular",
+          "artist": "Cosmic Gate",
+          "trackname": "\"Crushed\""
+        },
+        {
+          "label": "(Lifted Sounds)",
+          "type": "regular",
+          "artist": "Sound Quelle",
+          "trackname": "\"Spring Chord\""
+        },
+        {
+          "label": "(Anjunabeats)",
+          "type": "regular",
+          "artist": "Above & Beyond feat. Zoe Johnston",
+          "trackname": "\"Alchemy\" [Myon & Shane 54 Redemption Mix]"
+        },
+        {
+          "label": "(OWSLA)",
+          "type": "regular",
+          "artist": "Seven Lions",
+          "trackname": "\"The Truth\""
+        },
+        {
+          "label": "(Portrait)",
+          "type": "regular",
+          "artist": "EverLight",
+          "trackname": "\"Sunfire\""
+        },
+        {
+          "label": "(Different Pieces)",
+          "type": "push_the_button",
+          "artist": "Josh Gabriel pres. Winter Kills",
+          "trackname": "\"Forward Facing\""
+        },
+        {
+          "label": "(Portrait)",
+          "type": "regular",
+          "artist": "Toby Hedges",
+          "trackname": "\"Square One\""
+        },
+        {
+          "label": "(Alter Ego Progressive)",
+          "type": "regular",
+          "artist": "Eleven.Five",
+          "trackname": "\"For All Occasions\""
+        },
+        {
+          "label": "(Refune)",
+          "type": "regular",
+          "artist": "Arty",
+          "trackname": "\"When I See You\""
+        },
+        {
+          "label": "(Intricate)",
+          "type": "regular",
+          "artist": "Cramp",
+          "trackname": "\"Bombay\" [Fon.Leman Remix]"
+        },
+        {
+          "label": "(Anjunabeats)",
+          "type": "flashback",
+          "artist": "Above & Beyond",
+          "trackname": "\"Good For Me\" [King Roc Remix]"
+        }
+      ],
+      "artist": {
+        "name": "Above & Beyond"
+      }
+    },
+    {
+      "tracklist": [
+        {
+          "label": "(Armind)",
+          "type": "regular",
+          "artist": "Andrew Rayel feat. Jano",
+          "trackname": "\"How Do I Know\" [AvB Intro edit]"
+        },
+        {
+          "label": "(PMAM)",
+          "type": "regular",
+          "artist": "Frans Bak",
+          "trackname": "\"The Killing\" [Armin van Buuren Remix]"
+        },
+        {
+          "label": "(Captivating Sounds)",
+          "type": "regular",
+          "artist": "Solarstone vs Scott Bond",
+          "trackname": "\"3rd Earth\" [Heatbeat Remix]"
+        },
+        {
+          "label": "(Armind)",
+          "type": "regular",
+          "artist": "Armin van Buuren feat. Ana Criado",
+          "trackname": "\"I'll Listen\" [John O’Callaghan Dark Mix]"
+        },
+        {
+          "label": "(Armind)",
+          "type": "regular",
+          "artist": "Armin van Buuren feat. Jan Vayne",
+          "trackname": "\"Serenity\" [Andrew Rayel Aether Remix]"
+        },
+        {
+          "label": "(Armada)",
+          "type": "regular",
+          "artist": "Mark Burton - Understatement vs Sunlounger",
+          "trackname": "\"Try To Be Love\" [AvB Mash up]"
+        }
+      ],
+      "type": "guestmix",
+      "artist": {
+        "image": "http://cms.api.aboveandbeyond.nu/sites/default/files/armin-guest-mix_570x430_0.jpeg",
+        "name": "Armin Van Buuren"
+      }
+    }
+  ],
+  "playLink": "https://soundcloud.com/aboveandbeyond/abgt002",
+  "youtube_link": "http://youtube.com/watch?v=LW9_t6XTxRU"
+}
